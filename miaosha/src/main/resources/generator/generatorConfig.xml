@@ -86,7 +86,13 @@
                <!--selectByExampleQueryId="false">-->
         <!--</table>-->
 
-        <table schema="" tableName="promo" domainObjectName="PromoDO"
+        <!--<table schema="" tableName="promo" domainObjectName="PromoDO"-->
+               <!--enableCountByExample="false" enableDeleteByExample="false"-->
+               <!--enableSelectByExample="false" enableUpdateByExample="false"-->
+               <!--selectByExampleQueryId="false">-->
+        <!--</table>-->
+
+        <table schema="" tableName="test" domainObjectName="TestDO"
                enableCountByExample="false" enableDeleteByExample="false"
                enableSelectByExample="false" enableUpdateByExample="false"
                selectByExampleQueryId="false">
